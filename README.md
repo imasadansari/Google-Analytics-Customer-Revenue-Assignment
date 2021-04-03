@@ -1,5 +1,5 @@
 # Google-Analytics-Customer-Revenue-Assignment
-In this Machine Learning Assignment the original problem of Google Analytics Customer Revenue Prediction of Kaggle was solved. We did it as an assignment so original problem was changed a bit.
+In this Machine Learning Assignment the original problem of Google Analytics Customer Revenue Prediction of Kaggle (https://www.kaggle.com/c/ga-customer-revenue-prediction) was solved. We did it as an assignment so original problem was changed a bit.
 So in actually the Original Problem given by Google's Dataset was skewed and then given to us to perform EDA and give predictions for Customer Revenue.
 We Performed EDA and that too on three different basis of:
 1) Mean Transaction value
